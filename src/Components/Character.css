@@ -1,0 +1,22 @@
+.character-container {
+    display: flex;
+    width: 100%;
+}
+
+.character-features {
+    flex: 1;
+    padding: 1rem;
+}
+
+.character-image-container {
+    flex: none;
+    width: 200px;
+    padding: 1rem;
+    padding-right: 0rem;
+    margin-top: 60px;
+}
+
+.fixed-width {
+    width: 100%;
+    max-width: 200px;
+}
