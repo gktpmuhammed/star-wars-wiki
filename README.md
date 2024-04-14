@@ -1,23 +1,32 @@
-# Getting Started
+# Star Wars Wiki
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+Welcome to the Star Wars Wiki repository! This repository contains code for a web application designed to provide information about the Star Wars universe.
 
-## Installation and Demo
+## Installation
+To get started, follow these steps:
 
-You can clone the repository with following command.
+1. Clone the repository by executing the following command in your terminal:
+```bash
+git clone https://github.com/gktpmuhammed/star-wars-wiki.git
+```
 
-### `git clone https://github.com/gktpmuhammed/star-wars-wiki.git`
+2. Navigate to the project directory:
+```bash
+cd star-wars-wiki
+```
 
-Go to project directory.
+3. Install all project dependencies by running:
+```bash
+npm install
+```
 
-### `cd star-wars-wiki`
+## Usage
+Once you've installed the dependencies, you can run the application in development mode. Follow these steps:
 
-Install all dependencies.
+1. Start the application by executing:
+```bash
+npm start
+```
 
-### `npm install`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `npm start`
-
+2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
